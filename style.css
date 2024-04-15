@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'London Presley';
+    src: url(london-presley-font/LondonPresley-RpE7V.ttf);
+}
+
+#header {
+    font-family: 'London Presley';
+}
