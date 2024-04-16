@@ -39,3 +39,7 @@ figure {
     font-family: Arial, Helvetica, sans-serif;
     height: fit-content;
 }
+
+.attribution {
+    font-size: 0.8rem;
+}
