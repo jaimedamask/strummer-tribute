@@ -3,6 +3,24 @@
     src: url(london-presley-font/LondonPresley-RpE7V.ttf);
 }
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
 #header {
-    font-family: 'London Presley';
+    background-color: #2e2e29;
+    font-family: 'London Presley', 'Seymour One', sans-serif;
+    padding: 40px;
+    text-align: center;
+}
+
+#header h1 {
+    color: #F26889;
+    font-size: 4rem;
+}
+
+#header h2 {
+    color: #14b270;
+    font-size: 2rem;
 }
